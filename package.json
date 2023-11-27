@@ -1,0 +1,17 @@
+{
+  "name": "archoj-secondary-stack",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "cdk": "cdk"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.110.1",
+    "constructs": "^10.0.0",
+    "dotenv": "^16.3.1",
+    "nanoid": "^5.0.3"
+  },
+  "devDependencies": {
+    "aws-cdk": "2.110.1"
+  }
+}
